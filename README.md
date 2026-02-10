@@ -1,2 +1,2 @@
 # LAB
-rep for la
+rep for lab
